@@ -175,8 +175,16 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Times New Roman', Times, serif,cursive;
     color: #fed136;
+    text-transform: uppercase;
+    width:40%;
+    line-height: 100%;
+}
+
+.navbar-default .navbar-brand .logo1 {
+    text-decoration: underline;
+    
 }
 
 .navbar-default .navbar-brand:hover,
